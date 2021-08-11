@@ -1,6 +1,6 @@
 package br.com.generation.animal;
 
-public class ANIMAL {
+public class Animal {
 	//Atributo
 	private String nome;
 	private int idade;

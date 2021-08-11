@@ -1,6 +1,6 @@
 package br.com.generation.animal;
 
-public class CAVALO extends ANIMAL{
+public class Cavalo extends Animal{
 
 	private String irrocavalo;
 

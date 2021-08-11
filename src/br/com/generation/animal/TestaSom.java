@@ -1,15 +1,15 @@
 package br.com.generation.animal;
 
-import br.com.generation.animal.CACHORRO;
-import br.com.generation.animal.CAVALO;
-import br.com.generation.animal.PREGUICA;
+import br.com.generation.animal.Cachorro;
+import br.com.generation.animal.Cavalo;
+import br.com.generation.animal.Preguica;
 
-public class SOMDOSANIMAIS {
+public class TestaSom {
 	public static void main (String [] args) {
 		
-		CACHORRO cach = new CACHORRO();
-		CAVALO cav = new CAVALO();
-		PREGUICA preg = new PREGUICA();
+		Cachorro cach = new Cachorro();
+		Cavalo cav = new Cavalo();
+		Preguica preg = new Preguica();
 	
 		
 		cach.setNome("Bob");

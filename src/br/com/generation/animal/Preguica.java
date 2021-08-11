@@ -1,6 +1,6 @@
 package br.com.generation.animal;
 
-public class PREGUICA extends ANIMAL {
+public class Preguica extends Animal {
 	private String correr3;
 	private String som3;
 	private String ZzzPreguica;
